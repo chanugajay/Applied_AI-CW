@@ -1,4 +1,5 @@
 🧠 CNN-Based Image Classification on CIFAR-10 Dataset
+
 This project demonstrates how to build a Convolutional Neural Network (CNN) from scratch using TensorFlow/Keras to classify images from the CIFAR-10 dataset. The model was trained and evaluated on 10 categories of real-world images such as airplanes, automobiles, birds, cats, and more.
 
 📌 Project Overview
